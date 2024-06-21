@@ -79,7 +79,7 @@ The system consists of a beam mounted on a pivot, with a ball placed on the beam
   cd /Ball-Balancing-Seesaw/main
   ```
 
-### Run the Project
+### Running the Code
 
 In order to run the project do the following :
 
@@ -88,3 +88,23 @@ In order to run the project do the following :
 
    2. ```bash
       python3 main.py
+      ## Contributing
+
+## Contributing
+
+ If you'd like to contribute to this project, please follow these guidelines:
+ 
+ Fork the repository on GitHub.
+ Clone your forked repository to your local machine.
+ Create a new branch for your feature or bug fix.
+ Make your changes and commit them.
+ Push your changes to your fork on GitHub.
+ Create a pull request to submit your contribution.
+   
+## License 
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this code at your own discretion.
+
+## Contact
+
+For questions or feedback, feel free to reach out at petnenadd_d@uns.ac.rs .
