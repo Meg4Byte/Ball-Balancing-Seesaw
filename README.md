@@ -63,6 +63,7 @@ The system consists of a beam mounted on a pivot, with a ball placed on the beam
 - Python 3.x
 - Raspberry Pi (with Raspbian or compatible OS)
 - Required libraries (e.g., VL53L0X Python library, RPi.GPIO)
+- Check out the repository for more info https://github.com/adafruit/Adafruit_CircuitPython_VL53L0X
 
 ### Cloning the Repository
 
@@ -84,12 +85,11 @@ The system consists of a beam mounted on a pivot, with a ball placed on the beam
 In order to run the project do the following :
 
    1. ```bash
-      chmod +x new_car.py
+      chmod +x main.py
 
    2. ```bash
       python3 main.py
-      ## Contributing
-
+  
 ## Contributing
 
  If you'd like to contribute to this project, please follow these guidelines:
