@@ -63,7 +63,7 @@ The system consists of a beam mounted on a pivot, with a ball placed on the beam
 - Python 3.x
 - Raspberry Pi (with Raspbian or compatible OS)
 - Required libraries (e.g., VL53L0X Python library, RPi.GPIO)
-- Check out the repository for more info https://github.com/Gadgetoid/VL53L0X-python
+- Special thanks to Gadgetoid for writting python module for VL53L0X ,check out the repository for more info https://github.com/Gadgetoid/VL53L0X-python
 
 ### Cloning the Repository
 
