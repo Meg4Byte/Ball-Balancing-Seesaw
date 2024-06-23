@@ -16,7 +16,7 @@
 - [Project Description](#project-description)
   - [Key Components](#key-components)
   - [Control Theory and Kinematics](#control-theory-and-kinematics)
-- [Why bother with this project?](#why-bother-with-this-project-?)
+- [Why bother with this project?](#why-bother-with-this-project)
 - [Applications](#applications)
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
