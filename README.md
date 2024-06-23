@@ -1,6 +1,6 @@
-# Ball Balancing Seesaw
-
-
+# <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="37" alt="raspberrypi logo"  />  Ball Balancing Seesaw ⚖️   🔴  
+ 
+ 
 
  <p align="center">
   <img src="https://github.com/Meg4Byte/Ball-Balancing-Seesaw/assets/121357383/257a4c60-c5f5-4662-bbfe-13bdb276f844" >
