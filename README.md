@@ -1,7 +1,14 @@
 # Ball Balancing Seesaw
 
 
-![IMG_20230924_193945_496](https://github.com/Meg4Byte/Ball-Balancing-Seesaw/assets/121357383/7b53e2b3-c7b0-4cb4-a52b-dd31358aeaef)
+
+ <p align="center">
+  <img src="https://github.com/Meg4Byte/Ball-Balancing-Seesaw/assets/121357383/257a4c60-c5f5-4662-bbfe-13bdb276f844" >
+</p>
+
+
+
+
 
 
 ## Table of Contents
